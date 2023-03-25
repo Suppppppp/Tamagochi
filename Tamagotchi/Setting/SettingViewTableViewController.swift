@@ -19,7 +19,7 @@ class SettingViewTableViewController: UITableViewController {
         
         navigationItem.title = "설정"
         
-        
+        //
         setBasicBackgroundColor()
 
 
